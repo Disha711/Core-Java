@@ -16,7 +16,7 @@ class B extends A {
 
     void sum() {
         // ERROR, j is not accessible here
-        //total = i + j; 
+        // total = i + j;
         // Uncomment the line above if you want to access j from B
         total = i;
     }
